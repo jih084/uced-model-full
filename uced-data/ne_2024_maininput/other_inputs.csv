@@ -1,0 +1,6 @@
+﻿Parameter,Value
+initfinalstate,0.5
+reservoirminlevel,0.05
+hours_per_period,168
+contingency_for_SD,0
+contingency_for_JB,0

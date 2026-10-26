@@ -1,0 +1,30 @@
+region,Resource,technology,R_ID,Zone
+HL,Shuangyashan power station Phase 2 Unit 2,conventional_steam_coal,86,1
+HL,Shenhua Baoqing power station Unit 1,conventional_steam_coal,87,1
+HL,Shenhua Baoqing power station Unit 2,conventional_steam_coal,88,1
+JL,Erdaojiang power station Phase 1 Unit 1,conventional_steam_coal,234,3
+JL,Erdaojiang power station Phase 1 Unit 2,conventional_steam_coal,235,3
+JL,Jilin Ethanol power station Unit 3,conventional_steam_coal,236,3
+JL,Erdaojiang power station Phase 2 Unit 1,conventional_steam_coal,237,3
+JL,Erdaojiang power station Phase 2 Unit 2,conventional_steam_coal,238,3
+JL,Shuangliao West power station Unit 1,conventional_steam_coal,239,3
+JL,Shuangliao West power station Unit 2,conventional_steam_coal,240,3
+LN,CPI Qinghe power station Unit 8,conventional_steam_coal,342,4
+LN,PetroChina Jinxi Refinery power station Unit 2,conventional_steam_coal,343,4
+LN,PetroChina Jinxi Refinery power station Unit 3,conventional_steam_coal,344,4
+LN,Huaneng Dalian power station Unit 1,conventional_steam_coal,345,4
+LN,Huaneng Dalian power station Unit 2,conventional_steam_coal,346,4
+LN,Tieling power station Unit 1,conventional_steam_coal,347,4
+LN,Tieling power station Unit 2,conventional_steam_coal,348,4
+LN,Tieling power station Unit 3,conventional_steam_coal,349,4
+LN,Tieling power station Unit 4,conventional_steam_coal,350,4
+LN,Huaneng Dandong power station Unit 1,conventional_steam_coal,351,4
+LN,Huaneng Dandong power station Unit 2,conventional_steam_coal,352,4
+LN,Diaobingshan power station Unit 1,conventional_steam_coal,353,4
+LN,Diaobingshan power station Unit 2,conventional_steam_coal,354,4
+LN,Hongyang Nengyuan power station Unit 2,conventional_steam_coal,355,4
+LN,Panjin Xinli power station Unit 1,conventional_steam_coal,356,4
+LN,Panjin Xinli power station Unit 2,conventional_steam_coal,357,4
+LN,CPI Qinghe power station Unit 9,conventional_steam_coal,358,4
+LN,CPI Qinghe power station Unit 10,conventional_steam_coal,359,4
+LN,Kangping power station Unit 1,conventional_steam_coal,360,4

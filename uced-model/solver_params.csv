@@ -1,0 +1,6 @@
+﻿Parameter,Value,Type
+MIPGap,0.01,Double
+TimeLimit,91800,Double
+Method,2,Integer
+MIPFocus,1,Integer
+Presolve,2,Integer

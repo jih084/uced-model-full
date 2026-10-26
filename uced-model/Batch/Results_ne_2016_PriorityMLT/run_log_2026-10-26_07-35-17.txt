@@ -1,0 +1,96 @@
+🔧 UCED Model Run Started
+📝 Log file: uced-model/Batch/Results_ne_2016_PriorityMLT/run_log_2026-10-26_07-35-17.txt
+🕐 Start time: 2026-10-26 07:35:17
+🔧 Run settings:
+   runname: ne_2016_PriorityMLT
+   model_year: 2016
+================================================================================
+🎯 Running selected weeks: [2, 20, 30, 47]
+🔧 Processing Week 2
+Week 2: Minimum 82.0% CHP commitment (heating season)
+📊 Running in STANDALONE mode, using default MLT band: ±10.0%
+Lines limited by MLT include: HL_to_IME
+Lines limited by MLT include: HL_to_JL
+Lines limited by MLT include: IME_to_JL
+Lines limited by MLT include: IME_to_LN
+Lines limited by MLT include: JL_to_LN
+Lines limited by MLT include: IME_to_SD
+Lines limited by MLT include: LN_to_JB
+################################
+✅ Week 2 is feasible!!!
+################################
+=== MLT SLACK VARIABLES CHECK ===
+Week 2 MLT Slack Summary:
+  Total MLT Slack Up: 0.0 MW
+  Total MLT Slack Down: 0.0 MW
+  ✅ All MLT constraints satisfied without slack!
+=== END MLT SLACK CHECK ===
+
+🔧 Processing Week 20
+📊 Running in STANDALONE mode, using default MLT band: ±10.0%
+Lines limited by MLT include: HL_to_IME
+Lines limited by MLT include: HL_to_JL
+Lines limited by MLT include: IME_to_JL
+Lines limited by MLT include: IME_to_LN
+Lines limited by MLT include: JL_to_LN
+Lines limited by MLT include: IME_to_SD
+Lines limited by MLT include: LN_to_JB
+################################
+✅ Week 20 is feasible!!!
+################################
+=== MLT SLACK VARIABLES CHECK ===
+Week 20 MLT Slack Summary:
+  Total MLT Slack Up: 0.0 MW
+  Total MLT Slack Down: 0.0 MW
+  ✅ All MLT constraints satisfied without slack!
+=== END MLT SLACK CHECK ===
+
+🔧 Processing Week 30
+📊 Running in STANDALONE mode, using default MLT band: ±10.0%
+Lines limited by MLT include: HL_to_IME
+Lines limited by MLT include: HL_to_JL
+Lines limited by MLT include: IME_to_JL
+Lines limited by MLT include: IME_to_LN
+Lines limited by MLT include: JL_to_LN
+Lines limited by MLT include: IME_to_SD
+Lines limited by MLT include: LN_to_JB
+################################
+✅ Week 30 is feasible!!!
+################################
+=== MLT SLACK VARIABLES CHECK ===
+Week 30 MLT Slack Summary:
+  Total MLT Slack Up: 0.0 MW
+  Total MLT Slack Down: 0.0 MW
+  ✅ All MLT constraints satisfied without slack!
+=== END MLT SLACK CHECK ===
+
+🔧 Processing Week 47
+Week 47: Minimum 82.0% CHP commitment (heating season)
+📊 Running in STANDALONE mode, using default MLT band: ±10.0%
+Lines limited by MLT include: HL_to_IME
+Lines limited by MLT include: HL_to_JL
+Lines limited by MLT include: IME_to_JL
+Lines limited by MLT include: IME_to_LN
+Lines limited by MLT include: JL_to_LN
+Lines limited by MLT include: IME_to_SD
+Lines limited by MLT include: LN_to_JB
+################################
+✅ Week 47 is feasible!!!
+################################
+=== MLT SLACK VARIABLES CHECK ===
+Week 47 MLT Slack Summary:
+  Total MLT Slack Up: 0.0 MW
+  Total MLT Slack Down: 0.0 MW
+  ✅ All MLT constraints satisfied without slack!
+=== END MLT SLACK CHECK ===
+
+
+============================================================
+📊 ANNUAL MLT VIOLATION SUMMARY (52 WEEKS)
+============================================================
+✅ NO MLT violations across all 4 weeks!
+============================================================
+
+================================================================================
+✅ UCED Model Run Completed
+🕐 End time: 2026-10-26 07:41:28
